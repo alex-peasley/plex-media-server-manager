@@ -1,0 +1,22 @@
+{
+  "name": "plex-media-server-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/alex-peasley/plex-media-server-manager.git"
+  },
+  "author": "Alex Peasley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alex-peasley/plex-media-server-manager/issues"
+  },
+  "homepage": "https://github.com/alex-peasley/plex-media-server-manager#readme",
+  "dependencies": {
+    "plex-sdk": "^1.0.5"
+  }
+}
